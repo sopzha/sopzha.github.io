@@ -1,0 +1,4 @@
+baseURL = 'https://sopzha.com/'
+languageCode = 'en-us'
+title = 'Sophie Zhang'
+theme = 'paper'
