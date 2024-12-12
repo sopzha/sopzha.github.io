@@ -1,9 +1,7 @@
 +++
-date = '2024-12-11T20:53:03-05:00'
-draft = false
 title = 'My First Post'
+date = 2024-01-14T07:07:07+01:00
+draft = true
 +++
 
-## Introduction
-
-This is a **bold** text, and this is *emphasized* text.
+Welcome to my first post!
