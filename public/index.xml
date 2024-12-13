@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sophie Zhang</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Sophie Zhang</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Dec 2024 03:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>why blog</title>
+      <link>http://localhost:1313/posts/why/</link>
+      <pubDate>Fri, 13 Dec 2024 03:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/why/</guid>
+      <description>&lt;p&gt;In this post, I outline the reasons I am starting this blog.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Become a stronger writer.&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;My education at MIT has benefited me in many ways. Improving my writing and&#xA;communication skills is not one of them. While all students are required to&#xA;take classes with some substantial writing component, I completed these&#xA;classes during my first and second years of college, and found no incentive to&#xA;continue pursuing humanities classes at a technical institution as a computer&#xA;science major. Combined with my regular use of ChatGPT this past year to&#xA;complete my written assignments, I&amp;rsquo;ve noticed a considerable decline in my&#xA;ability to express myself in English, both orally and in writing.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
