@@ -17,10 +17,9 @@ science major. Combined with my regular use of ChatGPT this past year to
 complete my written assignments, I've noticed a considerable decline in my
 ability to express myself in English, both orally and in writing.
 
-The start of this post sounds accusatory. I don't blame MIT for an incomplete
-education. I have multiple friends in the same institution who are skilled
-writers and communicators. My inaptitude for writing is largely due to my own
-lack of commitment to practice.
+I don't blame MIT for an incomplete education. I have multiple friends in the
+same institution who are apt writers and communicators. My discomfort with
+writing is largely due to my own lack of commitment to practice.
 
 This blog is an attempt for me to address this problem. I hope through
 regularly blogging, I'm able to express my ideas in a way that is both
