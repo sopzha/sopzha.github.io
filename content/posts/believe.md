@@ -1,6 +1,6 @@
 +++
 date = 2024-12-14T03:00:00-05:00
-draft = false
+draft = true
 title = "believe what's convenient"
 +++
 
