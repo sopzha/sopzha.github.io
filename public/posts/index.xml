@@ -1,19 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Sophie Zhang</title>
+    <title>Posts on slipshod writes</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Sophie Zhang</description>
+    <description>Recent content in Posts on slipshod writes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 13 Dec 2024 03:00:00 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>believing what&#39;s convenient</title>
+      <link>http://localhost:1313/posts/religion/</link>
+      <pubDate>Fri, 13 Dec 2024 03:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/religion/</guid>
+      <description>&lt;p&gt;A few weeks ago, I had a conversation with a friend about faith. She is&#xA;Christian, I am not.&lt;/p&gt;&#xA;&lt;p&gt;I told her being Christian is inconvenient for me. My social circles are not&#xA;predominantly Christian, and there are ideas in the Bible (e.g. treating&#xA;homosexuality as a sin) I simply don&amp;rsquo;t feel comfortable considering my own.&lt;/p&gt;&#xA;&lt;p&gt;She seemed dismayed. How can you live your life without structure and rules?&#xA;What&amp;rsquo;s stopping you from committing murder? If we all simply believe what&amp;rsquo;s&#xA;convenient, the world will be utter chaos.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>why blog</title>
       <link>http://localhost:1313/posts/why/</link>
       <pubDate>Fri, 13 Dec 2024 03:00:00 -0500</pubDate>
       <guid>http://localhost:1313/posts/why/</guid>
-      <description>&lt;p&gt;In this post, I outline the reasons I am starting this blog.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Become a stronger writer.&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;My education at MIT has benefited me in many ways. Improving my writing and&#xA;communication skills is not one of them. While all students are required to&#xA;take classes with some substantial writing component, I completed these&#xA;classes during my first and second years of college, and found no incentive to&#xA;continue pursuing humanities classes at a technical institution as a computer&#xA;science major. Combined with my regular use of ChatGPT this past year to&#xA;complete my written assignments, I&amp;rsquo;ve noticed a considerable decline in my&#xA;ability to express myself in English, both orally and in writing.&lt;/p&gt;</description>
+      <description>&lt;p&gt;In this post, I outline the reasons I am starting this blog.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Become a stronger writer.&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;My education at MIT has benefited me in many ways. Improving my writing and&#xA;communication skills is not one of them. After completing the required&#xA;writing-intensive classes, I found no incentive to continue pursuing related&#xA;humanities classes at a technical institution as a computer science major.&#xA;Combined with my regular use of ChatGPT this past year to complete my written&#xA;assignments, I&amp;rsquo;ve noticed a considerable decline in my ability to express myself&#xA;in English, both orally and in writing.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -9,17 +9,19 @@ In this post, I outline the reasons I am starting this blog.
 1. **Become a stronger writer.**
 
 My education at MIT has benefited me in many ways. Improving my writing and
-communication skills is not one of them. While all students are required to
-take classes with some substantial writing component, I completed these
-classes during my first and second years of college, and found no incentive to
-continue pursuing humanities classes at a technical institution as a computer
-science major. Combined with my regular use of ChatGPT this past year to
-complete my written assignments, I've noticed a considerable decline in my
-ability to express myself in English, both orally and in writing.
+communication skills is not one of them. After completing the required
+writing-intensive classes, I found no incentive to continue pursuing related
+humanities classes at a technical institution as a computer science major.
+Combined with my regular use of ChatGPT this past year to complete my written
+assignments, I've noticed a considerable decline in my ability to express myself
+in English, both orally and in writing.
 
-I don't blame MIT for an incomplete education. I have multiple friends in the
-same institution who are apt writers and communicators. My discomfort with
-writing is largely due to my own lack of commitment to practice.
+I don't blame MIT for an incomplete education. My discomfort with writing is
+largely due to my own lack of commitment to practice. Recently, however, I've
+felt a stronger urge to become a better writer. Not only will writing help me in
+my professional career and personal correspondences, I find it self-satisfying
+to be able to procure just the right word or phrase to capture a particular
+feeling.
 
 This blog is an attempt for me to address this problem. I hope through
 regularly blogging, I'm able to express my ideas in a way that is both
