@@ -6,14 +6,14 @@
     <description>Recent content in Posts on slipshod writes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Dec 2024 03:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 25 Dec 2024 03:00:00 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>believing what&#39;s convenient</title>
-      <link>http://localhost:1313/posts/religion/</link>
-      <pubDate>Fri, 13 Dec 2024 03:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/posts/religion/</guid>
-      <description>&lt;p&gt;A few weeks ago, I had a conversation with a friend about faith. She is&#xA;Christian, I am not.&lt;/p&gt;&#xA;&lt;p&gt;I told her being Christian is inconvenient for me. My social circles are not&#xA;predominantly Christian, and there are ideas in the Bible (e.g. treating&#xA;homosexuality as a sin) I simply don&amp;rsquo;t feel comfortable considering my own.&lt;/p&gt;&#xA;&lt;p&gt;She seemed dismayed. How can you live your life without structure and rules?&#xA;What&amp;rsquo;s stopping you from committing murder? If we all simply believe what&amp;rsquo;s&#xA;convenient, the world will be utter chaos.&lt;/p&gt;</description>
+      <title>zookeeper</title>
+      <link>http://localhost:1313/posts/zookeeper/</link>
+      <pubDate>Wed, 25 Dec 2024 03:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/zookeeper/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;&#xA;&lt;p&gt;Zookeeper is a coordination service for distributed applications. It exposes&#xA;a simple client API that applications can use to implement higher level&#xA;primitives.&lt;/p&gt;&#xA;&lt;h3 id=&#34;data-model&#34;&gt;Data model&lt;/h3&gt;&#xA;&lt;p&gt;ZooKeeper&amp;rsquo;s data model is similar to a standard file system. Data used for&#xA;coordination is stored in znodes, organized in a hierarchical namespace. Each&#xA;znode can be referenced by clients via a file system pathname. For example,&#xA;&lt;code&gt;/A/B&lt;/code&gt; denotes the path to znode &lt;code&gt;B&lt;/code&gt;, whose parent is &lt;code&gt;A&lt;/code&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>why blog</title>
